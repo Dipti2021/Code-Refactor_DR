@@ -8,6 +8,8 @@
 
  ## Introduction 
  This is the first homework assignment for Carleton University coding camp. The refactored webpage  created is now more accessible, with links that are functioning correctly. Also, the CSS has been reworked so as to make it more efficient and has been organized to follow the semantic structure of the HTML elements.
+ The final product looks something like this
+  ![Final Image](Assets/html-css-git-homework.png)
  
  ## Installations
    * [The URL of the Github repo](https://github.com/Dipti2021/Code-Refactor_DR)
@@ -25,10 +27,13 @@
   * __Changes in the .css file:__
     * Arranged the style.css to follow the symantic structure of the html page.
     * Replaced .div with .nav so that the styling is not affected.
+    *
+   In order to do the changes the following criteria had to be kept in mind:
+    ![Criteria](Users/razda/homeworks/details.png)
     
     
    ## Credits
-    This assignment has been assigned by Carleton University Coding Bootcamp, our instructor and  the TA's
+    The homework has been assigned to me by the Carleton University Coding Bootcamp, our instructor and the TA's
    
      
  
