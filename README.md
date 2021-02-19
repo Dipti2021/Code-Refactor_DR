@@ -28,7 +28,7 @@
     
     
    ## Credits
-    This assignmenthas been assigned by Carleton University Coding Bootcamp, our instructor and  the TA's
+    This assignment has been assigned by Carleton University Coding Bootcamp, our instructor and  the TA's
    
      
  
