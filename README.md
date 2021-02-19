@@ -27,11 +27,8 @@
   * __Changes in the .css file:__
     * Arranged the style.css to follow the symantic structure of the html page.
     * Replaced .div with .nav so that the styling is not affected.
-    *
-   In order to do the changes the following criteria had to be kept in mind:
-    ![Criteria](Users/razda/homeworks/details.png)
     
-    
+   
    ## Credits
     The homework has been assigned to me by the Carleton University Coding Bootcamp, our instructor and the TA's
    
