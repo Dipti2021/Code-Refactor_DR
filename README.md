@@ -3,12 +3,16 @@
 ## Table of Contents
 
  * Introduction
- * Assignment details
  * Installations
+ * Assignment details
  * Credits
 
  ## Introduction 
  This is the first homework assignment for Carleton University coding camp. The refactored webpage  created is now more accessible, with links that are functioning correctly. Also, the CSS has been reworked so as to make it more efficient and has been organized to follow the semantic structure of the HTML elements.
+ 
+ ## Installations
+   * [The URL of the Github repo](https://github.com/Dipti2021/Code-Refactor_DR)
+   * [The URL of the deployed application](https://dipti2021.github.io/Code-Refactor_DR/Develop/index.html)
  
  ## Assignment Details
  The following changes have been made to the original code related to the __HTML and the CSS files__:
@@ -24,9 +28,8 @@
     * Replaced .div with .nav so that the styling is not affected.
     
     
-   ## Installations
-   * [URL of the Github repo](https://github.com/Dipti2021/Code-Refactor_DR)
-   * [The URL of the deployed application] (https://Dipti2021.github.io/Code-Refactor_DR/)
+   ## Credits
+    This assignmenthas been assigned by Carleton University Coding Bootcamp.
    
      
  
