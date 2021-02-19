@@ -4,7 +4,7 @@
 
  * Introduction
  * Assignment details
- * URL's
+ * Installations
  * Credits
 
  ## Introduction 
@@ -24,9 +24,10 @@
     * Replaced .div with .nav so that the styling is not affected.
     
     
-   ## URL's
-   * [The URL of the Github repo](https://github.com/Dipti2021/Code-Refactor_DR)
-   * 
+   ## Installations
+   * [URL of the Github repo](https://github.com/Dipti2021/Code-Refactor_DR)
+   * [The URL of the deployed application] (https://Dipti2021.github.io/Code-Refactor_DR/)
+   
      
  
  
